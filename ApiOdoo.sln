@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOdoo", "ApiOdoo\ApiOdoo.csproj", "{84AD7835-97EB-4A6E-898C-DEEE20D07908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComunicactionComponents", "ComunicactionComponents\ComunicactionComponents.csproj", "{6593F728-62C9-4A92-87EB-BBF07542DAD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AD7835-97EB-4A6E-898C-DEEE20D07908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AD7835-97EB-4A6E-898C-DEEE20D07908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AD7835-97EB-4A6E-898C-DEEE20D07908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AD7835-97EB-4A6E-898C-DEEE20D07908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6593F728-62C9-4A92-87EB-BBF07542DAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6593F728-62C9-4A92-87EB-BBF07542DAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6593F728-62C9-4A92-87EB-BBF07542DAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6593F728-62C9-4A92-87EB-BBF07542DAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E290A095-A2AE-403D-A426-0173AE6F00DB}
+	EndGlobalSection
+EndGlobal
